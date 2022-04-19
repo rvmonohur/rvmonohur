@@ -1,1 +1,1 @@
-Learninig Front-end web development
+Goal is to become a front-end web developer
