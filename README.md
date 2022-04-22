@@ -16,7 +16,7 @@
 
 
 <h3> Work experience in </h3>
-<p>Working on Microsoft Dynamics Sales (Customizations and Custom Development) amd Power Platform </p>
+<p>Microsoft Dynamics Sales (Customizations and Custom Development) amd Power Platform </p>
 
 
 
