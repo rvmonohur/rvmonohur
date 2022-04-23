@@ -4,18 +4,18 @@
 
 <p>Sharpening my technical skills and growing as a problem-solver </p>
 <p>Perseverant in my approach to analyze and evaluate different practical solutions, and devoted on working on projects that are outside my comfort and knowledge set. </p>
-
+<p>Learning front-end during my free time</p>
 
 ```
 {
-  "goal": "is to become a full stack javascript developer",
+  "goal": "is to become a front-end developer",
   "funfact": "I rarely miss watching a chelsea football match"
 }
 ```
 
 
 <h3> Work experience in </h3>
-<p>Microsoft Dynamics Sales (Customizations and Custom Development) amd Power Platform </p>
+<p>Microsoft Dynamics Sales (Customizations and Custom Development) and Power Platform </p>
 
 
 
