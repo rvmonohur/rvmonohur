@@ -1,10 +1,10 @@
 ## Hi there, I'm `Rishi`  👋 </h2>
 
-<h3> I work as a Microsoft Dynamics Consultant at Spoon Consulting. </h3>
+<h3> I work as a Microsoft Dynamics Consultant. </h3>
 
-<p>Sharpening my technical skills and growing as a problem-solver </p>
+<p>Sharpening my technical skills and growing as a problem-solver. </p>
 <p>Perseverant in my approach to analyze and evaluate different practical solutions, and devoted on working on projects that are outside my comfort and knowledge set. </p>
-<p>Learning front-end during my free time</p>
+<p>Working on Vanilla JS projects and learning React during my free time.</p>
 
 ```
 {
