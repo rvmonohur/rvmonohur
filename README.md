@@ -9,7 +9,7 @@
 ```
 {
   "goal": "is to become a front-end developer",
-  "funfact": "I rarely miss watching a chelsea football match"
+  "funfact": "I never miss a chelsea football match"
 }
 ```
 
