@@ -1,4 +1,4 @@
-## Hi there, I'm `Rishi Varma`  👋 </h2>
+## Hi there, I'm `Rishi`  👋 </h2>
 
 <h3> I work as a Microsoft Dynamics Consultant at Spoon Consulting. </h3>
 
